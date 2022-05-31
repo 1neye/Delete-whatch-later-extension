@@ -1,0 +1,24 @@
+{
+    "name": "Delete Watch Later",
+    "description": "This extension  was created to be deleted watch later videos",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "./images/get_started16.png",
+            "32": "./images/get_started32.png"
+        },
+        "icons": {
+            "32": "./images/get_started32.png"
+        }
+    },
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+    ]
+}
