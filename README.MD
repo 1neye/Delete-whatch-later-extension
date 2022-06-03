@@ -1,8 +1,10 @@
 # DELETE WATCH LATER PLAYLIST EXTENSION
 
-> &nbsp
+> 
+
 > This is an Google Chrome extension that removes all videos from the watch later playlist.
-> &nbsp
+
+> 
 
 ## Video about this extension
 
